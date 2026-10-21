@@ -9,4 +9,4 @@ Ankara Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Yazılım geli
 
 ### 📫 İletişim
 - **LinkedIn:** [Profilim](https://linkedin.com/in/mehmtarmagan)
-- **E-posta:** mehmetarmagan@email.com
+- **E-posta:** marmagan001@gmail.com
