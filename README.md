@@ -8,5 +8,5 @@ Ankara Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Yazılım geli
 - **Araçlar & Ortamlar:** VS Code, Git, GitHub, Docker
 
 ### 📫 İletişim
-- **LinkedIn:** [Profilim](https://linkedin.com)
+- **LinkedIn:** [Profilim](https://linkedin.com/in/mehmtarmagan)
 - **E-posta:** mehmetarmagan@email.com
