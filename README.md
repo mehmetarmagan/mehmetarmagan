@@ -1,12 +1,15 @@
-# 👋 Selam, Ben Mehmet Armağan!
+Mehmet Armağan
 
-Ankara Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Yazılım geliştirme, web teknolojileri ve algoritma tasarımı üzerine projeler geliştiriyorum.
+Bilgisayar Programcılığı öğrencisiyim. C++ ve web teknolojileriyle ilgileniyorum. Öğrenirken küçük projeler geliştiriyor, yeni teknolojiler deneyerek kendimi geliştirmeye çalışıyorum.
 
-### 🛠️ Teknolojiler & Araçlar
-- **Diller:** C++, Python, JavaScript, HTML5, CSS3, SQL
-- **Kütüphane & Frameworkler:** React, Win32 API
-- **Araçlar & Ortamlar:** VS Code, Git, GitHub, Docker
+Teknolojiler
 
-### 📫 İletişim
+Programlama: C++, Python, JavaScript
+
+Web: HTML, CSS
+
+Araçlar: Git, GitHub, VS Code
+
+İletişim
 - **LinkedIn:** [Profilim](https://linkedin.com/in/mehmtarmagan)
 - **E-posta:** marmagan001@gmail.com
