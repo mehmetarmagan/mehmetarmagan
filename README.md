@@ -1,5 +1,3 @@
-Mehmet Armağan
-
 Bilgisayar Programcılığı öğrencisiyim. C++ ve web teknolojileriyle ilgileniyorum. Öğrenirken küçük projeler geliştiriyor, yeni teknolojiler deneyerek kendimi geliştirmeye çalışıyorum.
 
 Teknolojiler
